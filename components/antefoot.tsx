@@ -1,7 +1,7 @@
 export default function antefoot() {
   return (
     <div className="flex justify-center">
-      <div className="mt-[160px] flex w-[328px] flex-col items-center lg:gap-[40px] gap-[24px] lg:w-[552px]">
+      <div className="lg:mt-[160px] mt-[80px] flex w-[328px] flex-col items-center lg:gap-[40px] gap-[24px] lg:w-[552px]">
         <div className="lg:text-center text-[32px] font-[700] leading-[32px] text-[#111111] lg:text-[64px] lg:leading-[64px]">
           Build and ship projects in public
         </div>

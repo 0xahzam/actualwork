@@ -26,7 +26,7 @@ export default function why() {
             We believe that by sharing our journey with the world, we can create
             a more collaborative and innovative environment, and we can inspire
             others to pursue their dreams of building a product. Join us on this
-            journey, and let's{" "}
+            journey, and let&apos;s{" "}
             <span style={{ color: "#111111", fontWeight: "bold" }}>
               #buildsomethingbeautiful #buildinpublic
             </span>

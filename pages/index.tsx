@@ -10,7 +10,7 @@ export default function index() {
       <Nav />
       <Hero />
       <Why />
-      <Features />
+       <Features />
       <Antefoot />
       <Footer />
     </div>

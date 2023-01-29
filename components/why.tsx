@@ -2,11 +2,11 @@
 export default function why() {
   return (
     <div className="flex justify-center">
-        <div className="mt-[216px] flex w-[720px] flex-col gap-[48px]">
-          <div className="text-center text-[48px] font-[700] text-[#111111]">
+        <div className="lg:mt-[216px] mt-[80px] flex lg:w-[720px] w-[328px] flex-col lg:gap-[48px] gap-[24px]">
+          <div className="lg:text-center lg-text-[48px] text-[24px] font-[700] text-[#111111]">
             Why are we doing this?
           </div>
-          <div className="opacity-[80%] text-[24px] font-[400] leading-[150%] text-[#111111]">
+          <div className="opacity-[80%] lg-text-[24px] text-[18px] font-[400] leading-[150%] text-[#111111]">
             At actualwork, we believe in the power of transparency and
             community. We believe that by sharing our journey of building a
             product in public, we can inspire others to do the same, and we can

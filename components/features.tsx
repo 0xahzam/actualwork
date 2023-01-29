@@ -3,7 +3,7 @@ import arrow from "../public/Arrow - Right.svg";
 export default function features() {
   return (
     <div className="flex justify-center">
-      <div className="mt-[200px] flex w-[328px] flex-col gap-[48px] lg:w-[864px]">
+      <div className="lg:mt-[200px] mt-[80px] flex w-[328px] flex-col gap-[48px] lg:w-[864px]">
         <div className="text-[24px] font-[700] text-[#111111] lg:text-center lg:text-[48px]">
           Resources to get you started
         </div>

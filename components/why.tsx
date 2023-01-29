@@ -1,8 +1,8 @@
 
 export default function why() {
   return (
-    <div className="flex justify-center">
-        <div className="lg:mt-[216px] mt-[80px] flex lg:w-[720px] w-[328px] flex-col lg:gap-[48px] gap-[24px]">
+    <div className="flex justify-center ">
+        <div className="flex lg:w-[720px] w-[328px] flex-col lg:gap-[48px] gap-[24px]">
           <div className="lg:text-center lg-text-[48px] text-[24px] font-[700] text-[#111111]">
             Why are we doing this?
           </div>
